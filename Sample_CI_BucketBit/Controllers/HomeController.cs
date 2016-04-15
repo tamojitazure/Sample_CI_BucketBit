@@ -9,6 +9,6 @@ namespace Sample_CI_BucketBit.Controllers
 {
     public class HomeController : ApiController
     {
-        //This is going to be the initial  checkin
+        //This is going to be the initial  checking
     }
 }
